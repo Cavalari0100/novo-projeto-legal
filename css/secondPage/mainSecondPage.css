@@ -1,0 +1,123 @@
+#place-logo-img-big {
+    width: 1865px;
+    height: 817px;
+}
+
+#our-service {
+    padding: 100px 0;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    color: #fff;
+}
+
+#features {
+    background-color: #f6f6f6;
+    padding: 100px 0;
+    ;
+}
+
+#about {
+    padding: 100px 0;
+}
+
+#about-us div {
+    width: 50%;
+}
+
+#our-service {
+    padding: 100px 0;
+}
+
+#gallery-div {
+    padding: 100px 0;
+}
+
+#gallery.col-sm {
+    width: 350px;
+    height: 254px;
+    padding-left: 0px;
+}
+
+#gallery img {
+    width: 440px;
+    height: 254px;
+    padding: 2px;
+}
+
+#imagem-cliente img {
+    border-radius: 100px;
+}
+
+#clients {
+    background-color: #f6f6f6;
+    padding: 100px 0;
+}
+
+#team {
+    padding: 100px 0;
+}
+
+#get-in {
+    padding: 100px 0;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    color: #fff;
+}
+
+#princ {
+    position: fixed;
+    z-index: 9;
+    width: 100%;
+    background-color: #f6f6f6;
+}
+
+#itens .fa {
+    font-size: 42px;
+    width: 120px;
+    height: 120px;
+    padding: 40px 0;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    border-radius: 50%;
+    color: #fff;
+    box-shadow: 10px 10px 10px rgb(0 0 0 / 5%);
+    padding-left: 39px;
+}
+
+#info-contact h2 {
+    font-size: 16px;
+}
+
+#info-contact h3 {
+    font-size: 14px;
+}
+
+#contact-input {
+    width: 88%;
+}
+
+#contact-form {
+    width: 85%;
+}
+
+#button-message {
+    margin: 30px 0;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 25px;
+}
+
+#social-midia ul {
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 10px;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+#footer-end {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}

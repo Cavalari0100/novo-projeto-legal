@@ -1,0 +1,75 @@
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border: 0;
+}
+
+#img-small-banner a {
+    text-decoration: none;
+    float: right;
+    color: black;
+}
+
+.col-sm {
+    padding: 20px;
+}
+
+.col-sm p {
+    padding: 20px;
+}
+
+#section-opcoes-finais {
+    padding: 9px;
+    color: #444444;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+hr {
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#princ {
+    position: fixed;
+    z-index: 9;
+    width: 100%;
+    background-color: white;
+}
+
+#menu-esq {
+    width: 100%;
+    position: absolute;
+}
+
+#menu-dir {
+    margin-right: 0px;
+}
+
+#navbarNav-1 ul li a {
+    padding: 10px;
+    text-transform: uppercase;
+    color: black;
+}
+
+#menu-b {
+    background-color: white;
+    text-transform: uppercase;
+}
+
+#logo {
+    width: 100%;
+    /* background-color: forestgreen;*/
+}
+
+#banner-principal {
+    padding-top: 150px;
+}
